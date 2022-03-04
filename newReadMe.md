@@ -1,7 +1,7 @@
-# ReadMe Generator!
-undefined
+# ReadMe Generator
+
 ## Description
-This appicaltion is to be utilized to generate quality readMe files!
+This application takes user input to create a proper readMe file in your GitHub to save you some time!
 
 ##Tabel of Contents
 - [Installation](#installation)
@@ -15,10 +15,10 @@ This appicaltion is to be utilized to generate quality readMe files!
 - [License](#license)
 
 ##Installation
-Please clone this repo to install this application!
+To install this application, simply clone this repo and try it for yourself!
 
 ##Usage
-Use this application with the command line in the terminal and answer the prompt accordingly.
+This application is accessable using the command line in VS Code. Then answer the prompts accordingly.
 
 ##Credits
 NA
@@ -27,12 +27,12 @@ NA
 undefined
 
 ##Contributing
-Use this application with the command line in the terminal and answer the prompt accordingly.
+This application is accessable using the command line in VS Code. Then answer the prompts accordingly.
 
 ##Tests
-Clone this Clone this repo and run tests as needed!
+View my screen recording to see how the application works. If you would like to experiance this yourself, just clone this repo!
 
 ##Questions
-If there are any questions please feel free to email me (michael.barrientos1129@gmail.com).
+If there are any please feel free to email me! Email: michael.barrientos1129@gmail.com.  GitHub: https://github.com/mbarrientos1129 .
 
 
