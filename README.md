@@ -35,4 +35,6 @@ View my screen recording to see how the application works. If you would like to 
 ##Questions
 If there are any please feel free to email me! Email: michael.barrientos1129@gmail.com.  GitHub: https://github.com/mbarrientos1129 .
 
+##Video Link
+https://drive.google.com/file/d/1_4nQHYOHznTKo2wfdjfQhGohmJYk26Jj/view
 
